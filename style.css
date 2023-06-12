@@ -1,0 +1,54 @@
+
+/* define the general styling for the body, font size, background color, and text alignment */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:bisque;
+    background-image: url("image/background.jpg")
+  }
+  /* define the Margin styling for the h1 */
+  
+  h1{
+    margin: 70px;
+    color: rgb(243, 245, 247);
+  }
+ ul{
+  background-color: rgb(243, 237, 229);
+  border: white;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding: 20px 20px;
+  align-items:flex-start;
+ }
+ li{
+  border-color: azure;
+  align-content: flex-start;
+ }
+ 
+ h2{
+  background-color: rgb(217, 244, 250);
+  border: white;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding: 10px 10px;
+ }
+  
+  /* define the general styling for the button, padding, background color,border and color */
+  button {
+    padding: 15px 30px;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    margin-bottom: 20px;
+  }
+  /* define the hover styling for the button color and background color */
+  button:hover {
+    background-color: #008CBA;
+    color: white;
+  }

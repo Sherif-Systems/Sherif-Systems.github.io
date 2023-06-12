@@ -1,0 +1,31 @@
+{
+    "degreesEarned": [
+      {
+        "school": "Giza High School - Egypt",
+        "program": "High School Diploma",
+        "type": "Diploma",
+        "yearConferred": 2009
+      },
+      {
+        "school": "Cairo University - Egypt",
+        "program": "Communication Engineer",
+        "type": "BS",
+        "yearConferred": 2010
+      },
+      {
+        "school": "Cairo University - Egypt",
+        "program": "Computer Science",
+        "type": "MS",
+        "yearConferred": 2014
+      }
+    ],
+    "degreesInProgress": [
+      {
+        "school": "Boston University",
+        "program": "Computer Science",
+        "type": "MS",
+        "yearConferred": 2024
+      }
+    ]
+  }
+  
